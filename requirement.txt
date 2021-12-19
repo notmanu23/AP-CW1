@@ -1,0 +1,2 @@
+pysqlitecipher==0.22
+tabulate==0.8.9
