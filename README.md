@@ -28,5 +28,8 @@ Made by :
     Group 6.
 
 
-
+Members : 
+    Maneth Pirisyala - w1832132
+    Tuan Buckman - w1809910
+    
 
