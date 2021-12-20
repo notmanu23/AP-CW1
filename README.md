@@ -1,3 +1,5 @@
+# Applied Cryptography Group Mini-Project
+
 ## This is a simple tool made using python, the pysqlitecipher libraries and sqllite.
 
 ### How the encryption is done -
